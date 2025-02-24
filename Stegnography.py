@@ -66,7 +66,7 @@ def decode_message(image_path, password):
         print("No hidden message found")
 
 # Usage
-image_file = "c2.jpg"  # Replace with your image path
+image_file = "tiger-jpg.jpg"  # Replace with your image path
 message = input("Enter secret message: ")
 password = input("Enter passcode: ")
 
